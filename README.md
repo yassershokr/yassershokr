@@ -12,7 +12,7 @@ I'm Yasser Mohamed    </h2>
 <h3 align="center">Undergraduate of Electronics and Communication Engineering , Alexandria University Eager about Digital IC Design and Verification</h3>
 
 <p align='center'>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5'/>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7'/>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
@@ -98,18 +98,8 @@ I'm Yasser Mohamed    </h2>
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yasser-shokr-633949224" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-</a>  
-<!--<a href="https://twitter.com/Abhishek_ak_02" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-</a>-->
-<!-- <a href="https://www.instagram.com/btw_itsabhishek02" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-</a> -->
-<a href="yassershoker143@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
-</a>
+<a href="https://www.linkedin.com/in/yasser-shokr-633949224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamednagyofficial/" height="30" width="40" </a>
+<a href="mailto:yassershoker143@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
 </p>
 
 <br/>
