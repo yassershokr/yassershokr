@@ -1,14 +1,17 @@
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<h2 align="center"> "Hello World"
+<h2 align="center"> "Hey there!"
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxZGFvNzV4dmg0aHNpNW4xc2w5NW54ZHkwZ2RmejR0ZHhnazB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USR9bpLz893PYVHk7C/giphy.gif" width="40">
 
-I am Yasser Mohamed    </h2>
+I'm Yasser Mohamed    </h2>
 
 <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
-
+<h3 align="center">Undergraduate of Electronics and Communication Engineering , Alexandria University Eager about Digital IC Design and Verification</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
