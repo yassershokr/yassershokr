@@ -12,7 +12,7 @@ I'm Yasser Mohamed    </h2>
 <h3 align="center">Undergraduate of Electronics and Communication Engineering , Alexandria University Eager about Digital IC Design and Verification</h3>
 
 <p align='center'>
-  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
+  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5'/>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
