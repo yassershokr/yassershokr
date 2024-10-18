@@ -35,8 +35,8 @@ I'm Yasser Mohamed    </h2>
   </a>
   <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/UVM_logo.svg" alt="uvm" width="40" height="40"/>
-  </a> <a href="https://www.mentor.com/products/fv/questasim/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/questasim-1.svg" alt="questasim" width="40" height="40"/>
+  </a> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5oIbxpop2Xq0dUqV2kaZdvtPvCoVudN8z9wh14X_Eh6P8R4kb-LM2ogBjPlWoSGjCUM&usqp=CAU" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd5oIbxpop2Xq0dUqV2kaZdvtPvCoVudN8z9wh14X_Eh6P8R4kb-LM2ogBjPlWoSGjCUM&usqp=CAU" alt="questasim" width="40" height="40"/>
   </a>
   <a href="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-2048x2048-o00qmxo5.png"_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-2048x2048-o00qmxo5.png" alt="verilog" width="40" height="40"/>
