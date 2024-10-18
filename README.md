@@ -38,8 +38,8 @@ I'm Yasser Mohamed    </h2>
   </a> <a href="https://www.mentor.com/products/fv/questasim/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/questasim-1.svg" alt="questasim" width="40" height="40"/>
   </a>
-  <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/verilog.svg" alt="verilog" width="40" height="40"/>
+  <a href="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-2048x2048-o00qmxo5.png"_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-2048x2048-o00qmxo5.png" alt="verilog" width="40" height="40"/>
   </a>
   <a href="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/>
