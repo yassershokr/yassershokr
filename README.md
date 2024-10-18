@@ -41,8 +41,8 @@ I'm Yasser Mohamed    </h2>
   <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/verilog.svg" alt="verilog" width="40" height="40"/>
   </a>
-  <a href="https://wiki.huihoo.com/images/5/54/SystemVerilog-logo.png" target="_blank" rel="noreferrer">
-    <img src="https://wiki.huihoo.com/images/5/54/SystemVerilog-logo.png" alt="systemverilog" width="40" height="40"/>
+  <a href="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/>
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.cprograming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !! 🤝** ️
