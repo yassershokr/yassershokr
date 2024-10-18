@@ -30,7 +30,12 @@ I'm Yasser Mohamed    </h2>
 <br/>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mentor.com/products/fv/questasim/" target="_blank" rel="noreferrer">
+<p align="left">   <a href="https://eda.sw.siemens.com/en-US/ic/calibre-platform/" target="_blank" rel="noreferrer">
+    <img src="https://www.svls.org/wp-content/uploads/2020/01/calibre-logo.png" alt="calibre" width="40" height="40"/>
+  </a>
+  <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/UVM_logo.svg" alt="uvm" width="40" height="40"/>
+  </a> <a href="https://www.mentor.com/products/fv/questasim/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/questasim-1.svg" alt="questasim" width="40" height="40"/>
   </a>
   <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
